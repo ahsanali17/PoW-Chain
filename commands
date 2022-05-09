@@ -1,0 +1,10 @@
+To run this use the following commands:
+
+scripts:
+node startMining: Begins the process of mining
+node miningStop: Stop the process of mining
+node getBalance - Retrieves the balances of the address
+node getBalance --address=ENTER_WALLET_ADDRESS - Retrieves the balance of the selected address
+
+The entry into this project is index.js. To get the server running use command:
+nodemon index
